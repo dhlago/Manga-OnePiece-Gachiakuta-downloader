@@ -21,7 +21,7 @@ class MangaBot {
         // Configuración adaptada a Chromium nativo en Termux (ARM64)
         const browser = await puppeteer.launch({ 
             headless: "new", 
-            executablePath: '/data/data/com.termux/files/usr/bin/chromium',
+            executablePath: '/data/data/com.termux/files/usr/lib/chromium/chromium-launcher.sh',
             args: [
                 '--no-sandbox', 
                 '--disable-setuid-sandbox', 
