@@ -1,0 +1,943 @@
+
+--- Revisando One_Piece ---
+Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1174
+Descargando 18 imágenes...
+❌ Error en One_Piece: The provided webhook URL is not valid.
+
+--- Revisando Gachiakuta ---
+Gachiakuta al día (161).
+
+--- Revisando One_Piece ---
+Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+
+--- Revisando Gachiakuta ---
+❌ Error en Gachiakuta: Navigation timeout of 30000 ms exceeded
+
+--- Revisando One_Piece ---
+Probando Cap 1175...
+Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+⚠️ No se han podido extraer las imágenes (0 encontradas).
+
+--- Revisando Gachiakuta ---
+Probando Cap 162...
+Navegando a: https://animeallstar30.com/gachiakuta-manga-162-espanol/
+⚠️ No se han podido extraer las imágenes (5 encontradas).
+🚀 [SISTEMA] Iniciando MangaBot (Logs Full + Parte 2)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+[One_Piece] 1/2 Buscando capítulo normal: 1175
+   [LOG] Accediendo a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen detectada: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Iniciando scroll dinámico...
+   [LOG] Esperando renderizado final (5s)...
+   [LOG] Total imágenes capturadas: 1
+   [AVISO] Se encontraron imágenes pero no llegan al mínimo de 3.
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+[Gachiakuta] 1/2 Buscando capítulo normal: 162
+   [LOG] Accediendo a: https://animeallstar30.com/gachiakuta-manga-162-espanol/
+   [RED] + Imagen detectada: .../FB_IMG_1768956165787.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1768956167470.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1768956170766.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1768956172604.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1768956172378.jpg
+   [LOG] Status 200 OK. Iniciando scroll dinámico...
+   [LOG] Esperando renderizado final (5s)...
+   [LOG] Total imágenes capturadas: 5
+   ✅ [ÉXITO] Generando PDF para capítulo 162...
+   [LOG] Enviando a Discord vía Webhook...
+(node:44844) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+   [LOG] Actualizando config.json a: 162
+   [OK] Capítulo 162 finalizado.
+
+[Gachiakuta] 2/2 Comprobando si existe Parte 2 del cap 162...
+   [LOG] Accediendo a: https://animeallstar30.com/gachiakuta-manga-162-parte-2-espanol/
+   [RED] + Imagen detectada: .../FB_IMG_1770174691194.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174692869.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174694651.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174696365.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174698167.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174700260.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174702364.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174704402.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174705919.jpg
+   [LOG] Status 200 OK. Iniciando scroll dinámico...
+   [RED] + Imagen detectada: .../FB_IMG_1770174708815.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174709849.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174711217.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174712914.jpg
+   [RED] + Imagen detectada: .../FB_IMG_1770174714889.jpg
+   [LOG] Esperando renderizado final (5s)...
+   [LOG] Total imágenes capturadas: 14
+   ✅ [ÉXITO] Generando PDF para capítulo 162 P2...
+   [LOG] Enviando a Discord vía Webhook...
+[Gachiakuta] 🚨 ERROR CRÍTICO: ENOENT: no such file or directory, stat '/home/david/manga-downloader/temp_Gachiakuta.pdf'
+
+✅ [SISTEMA] Todos los mangas procesados.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   ❌ [INFO] 1175 no disponible (Status: Error).
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: Error).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   ❌ [INFO] 1175 no disponible (Status: Error).
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: Error).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1175
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1175
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...into-scans/1175/0001-.jpg
+   [RED] + Imagen: ...into-scans/1175/0002-.jpg
+   [RED] + Imagen: ...into-scans/1175/0003-.jpg
+   [RED] + Imagen: ...into-scans/1175/0004-.jpg
+   [RED] + Imagen: ...into-scans/1175/0005-.jpg
+   [RED] + Imagen: ...into-scans/1175/0006-.jpg
+   [RED] + Imagen: ...into-scans/1175/0007-.jpg
+   [RED] + Imagen: ...into-scans/1175/0008-.jpg
+   [RED] + Imagen: ...into-scans/1175/0009-.jpg
+   [RED] + Imagen: ...into-scans/1175/0010-.jpg
+   [RED] + Imagen: ...into-scans/1175/0011-.jpg
+   [RED] + Imagen: ...into-scans/1175/0012-.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1175 (13 imágenes)
+   [LOG] Enviando a Discord...
+(node:11941) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+   [LOG] Actualizando JSON a: 1175
+
+[One_Piece] Intentando Capítulo Normal: 1176
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1176
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1176/001.png
+   [RED] + Imagen: ...quinto-scans/1176/002.png
+   [RED] + Imagen: ...quinto-scans/1176/003.jpg
+   [RED] + Imagen: ...quinto-scans/1176/004.jpg
+   [RED] + Imagen: ...quinto-scans/1176/005.jpg
+   [RED] + Imagen: ...quinto-scans/1176/006.jpg
+   [RED] + Imagen: ...quinto-scans/1176/007.jpg
+   [RED] + Imagen: ...quinto-scans/1176/008.jpg
+   [RED] + Imagen: ...quinto-scans/1176/009.jpg
+   [RED] + Imagen: ...quinto-scans/1176/010.jpg
+   [RED] + Imagen: ...quinto-scans/1176/011.jpg
+   [RED] + Imagen: ...quinto-scans/1176/012.jpg
+   [RED] + Imagen: ...quinto-scans/1176/013.jpg
+   [RED] + Imagen: ...quinto-scans/1176/014.jpg
+   [RED] + Imagen: ...quinto-scans/1176/015.jpg
+   [RED] + Imagen: ...into-scans/1176/016-2.jpg
+   [RED] + Imagen: ...quinto-scans/1176/017.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1176 (18 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1176
+
+[One_Piece] Intentando Capítulo Normal: 1177
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1177
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1177/000.jpg
+   [RED] + Imagen: ...quinto-scans/1177/001.jpg
+   [RED] + Imagen: ...quinto-scans/1177/002.jpg
+   [RED] + Imagen: ...quinto-scans/1177/003.jpg
+   [RED] + Imagen: ...quinto-scans/1177/004.jpg
+   [RED] + Imagen: ...quinto-scans/1177/005.jpg
+   [RED] + Imagen: ...quinto-scans/1177/006.jpg
+   [RED] + Imagen: ...quinto-scans/1177/007.jpg
+   [RED] + Imagen: ...quinto-scans/1177/008.jpg
+   [RED] + Imagen: ...quinto-scans/1177/009.jpg
+   [RED] + Imagen: ...quinto-scans/1177/010.jpg
+   [RED] + Imagen: ...quinto-scans/1177/011.jpg
+   [RED] + Imagen: ...quinto-scans/1177/012.jpg
+   [RED] + Imagen: ...quinto-scans/1177/013.jpg
+   [RED] + Imagen: ...quinto-scans/1177/014.jpg
+   [RED] + Imagen: ...quinto-scans/1177/015.jpg
+   [RED] + Imagen: ...quinto-scans/1177/016.jpg
+   [RED] + Imagen: ...quinto-scans/1177/017.jpg
+   [RED] + Imagen: ...quinto-scans/1177/018.jpg
+   [RED] + Imagen: ...quinto-scans/1177/019.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1177 (21 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1177
+
+[One_Piece] Intentando Capítulo Normal: 1178
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1178
+   ❌ [INFO] 1178 no disponible (Status: Error).
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   ❌ [INFO] 163 no disponible (Status: Error).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1178
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1178
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1178/000.jpg
+   [RED] + Imagen: ...quinto-scans/1178/001.jpg
+   [RED] + Imagen: ...quinto-scans/1178/002.jpg
+   [RED] + Imagen: ...quinto-scans/1178/003.jpg
+   [RED] + Imagen: ...quinto-scans/1178/004.jpg
+   [RED] + Imagen: ...quinto-scans/1178/005.jpg
+   [RED] + Imagen: ...quinto-scans/1178/006.jpg
+   [RED] + Imagen: ...quinto-scans/1178/007.jpg
+   [RED] + Imagen: ...quinto-scans/1178/008.jpg
+   [RED] + Imagen: ...quinto-scans/1178/009.jpg
+   [RED] + Imagen: ...into-scans/1178/010-2.jpg
+   [RED] + Imagen: ...into-scans/1178/011-2.jpg
+   [RED] + Imagen: ...quinto-scans/1178/012.jpg
+   [RED] + Imagen: ...quinto-scans/1178/013.jpg
+   [RED] + Imagen: ...quinto-scans/1178/014.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1178 (16 imágenes)
+   [LOG] Enviando a Discord...
+(node:8545) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+   [LOG] Actualizando JSON a: 1178
+
+[One_Piece] Intentando Capítulo Normal: 1179
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1179
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1179/000.jpg
+   [RED] + Imagen: ...quinto-scans/1179/001.jpg
+   [RED] + Imagen: ...quinto-scans/1179/002.jpg
+   [RED] + Imagen: ...uinto-scans/1179/003-.jpg
+   [RED] + Imagen: ...uinto-scans/1179/004-.jpg
+   [RED] + Imagen: ...quinto-scans/1179/005.jpg
+   [RED] + Imagen: ...quinto-scans/1179/006.jpg
+   [RED] + Imagen: ...quinto-scans/1179/007.jpg
+   [RED] + Imagen: ...quinto-scans/1179/008.jpg
+   [RED] + Imagen: ...quinto-scans/1179/009.jpg
+   [RED] + Imagen: ...quinto-scans/1179/010.jpg
+   [RED] + Imagen: ...quinto-scans/1179/011.jpg
+   [RED] + Imagen: ...quinto-scans/1179/012.jpg
+   [RED] + Imagen: ...quinto-scans/1179/013.jpg
+   [RED] + Imagen: ...quinto-scans/1179/014.jpg
+   [RED] + Imagen: ...uinto-scans/1179/015-.jpg
+   [RED] + Imagen: ...quinto-scans/1179/016.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1179 (18 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1179
+
+[One_Piece] Intentando Capítulo Normal: 1180
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1180
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1180/000-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/001-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/002-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/003-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/004-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/005-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/006-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/007-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/008-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/009-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/010-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/011-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/012-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/013-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/014-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/015-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/016-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/017-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/018-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/019-.jpg
+   [RED] + Imagen: ...uinto-scans/1180/020-.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1180 (22 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1180
+
+[One_Piece] Intentando Capítulo Normal: 1181
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1181
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1181/000-.jpg
+   [RED] + Imagen: ...into-scans/1181/0001-.jpg
+   [RED] + Imagen: ...into-scans/1181/0002-.png
+   [RED] + Imagen: ...into-scans/1181/0003-.jpg
+   [RED] + Imagen: ...into-scans/1181/0004-.jpg
+   [RED] + Imagen: ...into-scans/1181/0005-.jpg
+   [RED] + Imagen: ...into-scans/1181/0006-.jpg
+   [RED] + Imagen: ...into-scans/1181/0007-.jpg
+   [RED] + Imagen: ...into-scans/1181/0008-.jpg
+   [RED] + Imagen: ...into-scans/1181/0009-.jpg
+   [RED] + Imagen: ...into-scans/1181/0010-.jpg
+   [RED] + Imagen: ...into-scans/1181/0011-.jpg
+   [RED] + Imagen: ...into-scans/1181/0012-.jpg
+   [RED] + Imagen: ...into-scans/1181/0013-.jpg
+   [RED] + Imagen: ...into-scans/1181/0014-.jpg
+   [RED] + Imagen: ...into-scans/1181/0015-.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1181 (17 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1181
+
+[One_Piece] Intentando Capítulo Normal: 1182
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1182
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...into-scans/1182/000-2.jpg
+   [RED] + Imagen: ...into-scans/1182/001-2.jpg
+   [RED] + Imagen: ...into-scans/1182/002-2.jpg
+   [RED] + Imagen: ...into-scans/1182/003-2.jpg
+   [RED] + Imagen: ...into-scans/1182/004-2.jpg
+   [RED] + Imagen: ...into-scans/1182/005-3.jpg
+   [RED] + Imagen: ...into-scans/1182/006-2.jpg
+   [RED] + Imagen: ...into-scans/1182/007-2.jpg
+   [RED] + Imagen: ...into-scans/1182/008-2.jpg
+   [RED] + Imagen: ...into-scans/1182/009-2.jpg
+   [RED] + Imagen: ...into-scans/1182/010-2.jpg
+   [RED] + Imagen: ...into-scans/1182/011-2.jpg
+   [RED] + Imagen: ...into-scans/1182/012-2.jpg
+   [RED] + Imagen: ...into-scans/1182/013-2.jpg
+   [RED] + Imagen: ...into-scans/1182/014-2.jpg
+   [RED] + Imagen: ...into-scans/1182/015-2.jpg
+   [RED] + Imagen: ...into-scans/1182/016-2.jpg
+   [RED] + Imagen: ...into-scans/1182/017-2.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1182 (19 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1182
+
+[One_Piece] Intentando Capítulo Normal: 1183
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1183
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: .../quinto-scans/1183/00.jpg
+   [RED] + Imagen: .../quinto-scans/1183/01.jpg
+   [RED] + Imagen: .../quinto-scans/1183/02.jpg
+   [RED] + Imagen: .../quinto-scans/1183/03.jpg
+   [RED] + Imagen: .../quinto-scans/1183/04.jpg
+   [RED] + Imagen: .../quinto-scans/1183/05.jpg
+   [RED] + Imagen: .../quinto-scans/1183/06.jpg
+   [RED] + Imagen: .../quinto-scans/1183/07.jpg
+   [RED] + Imagen: .../quinto-scans/1183/08.jpg
+   [RED] + Imagen: .../quinto-scans/1183/09.jpg
+   [RED] + Imagen: .../quinto-scans/1183/10.jpg
+   [RED] + Imagen: .../quinto-scans/1183/11.jpg
+   [RED] + Imagen: .../quinto-scans/1183/12.jpg
+   [RED] + Imagen: .../quinto-scans/1183/13.jpg
+   [RED] + Imagen: .../quinto-scans/1183/14.jpg
+   [RED] + Imagen: .../quinto-scans/1183/15.jpg
+   [RED] + Imagen: .../quinto-scans/1183/16.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1183 (18 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1183
+
+[One_Piece] Intentando Capítulo Normal: 1184
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1184
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1184/0000.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0001.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0002.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0003.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0004.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0005.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0006.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0007.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0008.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0009.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0010.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0011.jpg
+   [RED] + Imagen: ...uinto-scans/1184/0012.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1184 (14 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1184
+
+[One_Piece] Intentando Capítulo Normal: 1185
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1185
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 163
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-163-espanol/
+   [RED] + Imagen: .../FB_IMG_1774501582384.jpg
+   [RED] + Imagen: .../FB_IMG_1774501584040.jpg
+   [RED] + Imagen: .../FB_IMG_1774501585524.jpg
+   [RED] + Imagen: .../FB_IMG_1774501587408.jpg
+   [RED] + Imagen: .../FB_IMG_1774501588871.jpg
+   [RED] + Imagen: .../FB_IMG_1774501590216.jpg
+   [RED] + Imagen: .../FB_IMG_1774501591801.jpg
+   [RED] + Imagen: .../FB_IMG_1774501593380.jpg
+   [RED] + Imagen: .../FB_IMG_1774501595026.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1774501596798.jpg
+   [RED] + Imagen: .../FB_IMG_1774501598452.jpg
+   ✅ [ÉXITO] Generando PDF: 163 (11 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 163
+
+[Gachiakuta] Intentando Capítulo Normal: 164
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-164-espanol/
+   [RED] + Imagen: .../FB_IMG_1775679035642.jpg
+   [RED] + Imagen: .../FB_IMG_1775679037546.jpg
+   [RED] + Imagen: .../FB_IMG_1775679039171.jpg
+   [RED] + Imagen: .../FB_IMG_1775679040834.jpg
+   [RED] + Imagen: .../FB_IMG_1775679042535.jpg
+   [RED] + Imagen: .../FB_IMG_1775679044222.jpg
+   [RED] + Imagen: .../FB_IMG_1775679045813.jpg
+   [RED] + Imagen: .../FB_IMG_1775679047486.jpg
+   [RED] + Imagen: .../FB_IMG_1775679049136.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1775679050795.jpg
+   [RED] + Imagen: .../FB_IMG_1775679052412.jpg
+   [RED] + Imagen: .../FB_IMG_1775679054085.jpg
+   [RED] + Imagen: .../FB_IMG_1775679055942.jpg
+   [RED] + Imagen: .../FB_IMG_1775679057527.jpg
+   [RED] + Imagen: .../FB_IMG_1775679059144.jpg
+   [RED] + Imagen: .../FB_IMG_1775679060847.jpg
+   ✅ [ÉXITO] Generando PDF: 164 (16 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 164
+
+[Gachiakuta] Intentando Capítulo Normal: 165
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-165-espanol/
+   [RED] + Imagen: .../FB_IMG_1776225438497.jpg
+   [RED] + Imagen: .../FB_IMG_1776225441108.jpg
+   [RED] + Imagen: .../FB_IMG_1776225442807.jpg
+   [RED] + Imagen: .../FB_IMG_1776225444406.jpg
+   [RED] + Imagen: .../FB_IMG_1776225445971.jpg
+   [RED] + Imagen: .../FB_IMG_1776225447617.jpg
+   [RED] + Imagen: .../FB_IMG_1776225449291.jpg
+   [RED] + Imagen: .../FB_IMG_1776225451140.jpg
+   [RED] + Imagen: .../FB_IMG_1776225452807.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1776225455011.jpg
+   [RED] + Imagen: .../FB_IMG_1776225456531.jpg
+   [RED] + Imagen: .../FB_IMG_1776225458361.jpg
+   [RED] + Imagen: .../FB_IMG_1776225460050.jpg
+   [RED] + Imagen: .../FB_IMG_1776225462599.jpg
+   [RED] + Imagen: .../FB_IMG_1776225464250.jpg
+   ✅ [ÉXITO] Generando PDF: 165 (15 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 165
+
+[Gachiakuta] Intentando Capítulo Normal: 166
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-166-espanol/
+   [RED] + Imagen: .../FB_IMG_1777382823284.jpg
+   [RED] + Imagen: .../FB_IMG_1777382825052.jpg
+   [RED] + Imagen: .../FB_IMG_1777382826894.jpg
+   [RED] + Imagen: .../FB_IMG_1777382828916.jpg
+   [RED] + Imagen: .../FB_IMG_1777382830913.jpg
+   [RED] + Imagen: .../FB_IMG_1777382832541.jpg
+   [RED] + Imagen: .../FB_IMG_1777382834372.jpg
+   [RED] + Imagen: .../FB_IMG_1777382836211.jpg
+   [RED] + Imagen: .../FB_IMG_1777382838247.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1777382840017.jpg
+   [RED] + Imagen: .../FB_IMG_1777382841991.jpg
+   [RED] + Imagen: .../FB_IMG_1777382844170.jpg
+   [RED] + Imagen: .../FB_IMG_1777382846176.jpg
+   [RED] + Imagen: .../FB_IMG_1777382848626.jpg
+   [RED] + Imagen: .../FB_IMG_1777382850527.jpg
+   [RED] + Imagen: .../FB_IMG_1777382852599.jpg
+   ✅ [ÉXITO] Generando PDF: 166 (16 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 166
+
+[Gachiakuta] Intentando Capítulo Normal: 167
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-167-espanol/
+   [RED] + Imagen: ...nCeDgcgXQAl/s1600/01.webp
+   [RED] + Imagen: ...aXdU3BoSyIe/s1600/02.webp
+   [RED] + Imagen: ...iAZKmpFK5wi/s1600/03.webp
+   [RED] + Imagen: ...cJKTvBJwmS0/s1600/04.webp
+   [RED] + Imagen: ...JJ69S9p1aNO/s1600/05.webp
+   [RED] + Imagen: ...kOwIbBwBsbZ/s1600/06.webp
+   [RED] + Imagen: ...blJt6-qzTX/s1600/001.webp
+   [RED] + Imagen: ...n30DRYEB4t/s1600/002.webp
+   [RED] + Imagen: ...gDNy6bgBv9/s1600/003.webp
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: ...KAgUSOUuDY/s1600/004.webp
+   [RED] + Imagen: ...pmppG6EY2v/s1600/005.webp
+   [RED] + Imagen: ...e7UyeveP-T/s1600/006.webp
+   [RED] + Imagen: ...fh5zn9Oxn4/s1600/007.webp
+   [RED] + Imagen: ...LIJRz1lLV_/s1600/008.webp
+   [RED] + Imagen: ...5UWytpqJcf/s1600/009.webp
+   [RED] + Imagen: ...kDymPfK3zi/s1600/010.webp
+   [RED] + Imagen: ...57-h1VOyYv/s1600/011.webp
+   [RED] + Imagen: ...Tw8FadESJ5/s1600/012.webp
+   [RED] + Imagen: ...qV_J51tCpZ/s1600/013.webp
+   [RED] + Imagen: ...jAaEn6kLYN/s1600/015.webp
+   [RED] + Imagen: ...yv2AlLODrZ/s1600/016.webp
+   [RED] + Imagen: ...3bkF3nYlPY/s1600/017.webp
+   [RED] + Imagen: ...OvKqdRBMlS/s1600/018.webp
+   ✅ [ÉXITO] Generando PDF: 167 (23 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 167
+
+[Gachiakuta] Intentando Capítulo Normal: 168
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-168-espanol/
+   [RED] + Imagen: ...blJt6-qzTX/s1600/001.webp
+   [RED] + Imagen: ...n30DRYEB4t/s1600/002.webp
+   [RED] + Imagen: ...gDNy6bgBv9/s1600/003.webp
+   [RED] + Imagen: ...KAgUSOUuDY/s1600/004.webp
+   [RED] + Imagen: ...pmppG6EY2v/s1600/005.webp
+   [RED] + Imagen: ...e7UyeveP-T/s1600/006.webp
+   [RED] + Imagen: ...fh5zn9Oxn4/s1600/007.webp
+   [RED] + Imagen: ...LIJRz1lLV_/s1600/008.webp
+   [RED] + Imagen: ...5UWytpqJcf/s1600/009.webp
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: ...kDymPfK3zi/s1600/010.webp
+   [RED] + Imagen: ...57-h1VOyYv/s1600/011.webp
+   [RED] + Imagen: ...Tw8FadESJ5/s1600/012.webp
+   [RED] + Imagen: ...qV_J51tCpZ/s1600/013.webp
+   [RED] + Imagen: ...jAaEn6kLYN/s1600/015.webp
+   [RED] + Imagen: ...yv2AlLODrZ/s1600/016.webp
+   [RED] + Imagen: ...YipCcdpHfY/s1600/014.webp
+   [RED] + Imagen: ...3bkF3nYlPY/s1600/017.webp
+   [RED] + Imagen: ...OvKqdRBMlS/s1600/018.webp
+   ✅ [ÉXITO] Generando PDF: 168 (18 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 168
+
+[Gachiakuta] Intentando Capítulo Normal: 169
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-169-espanol/
+   ❌ [INFO] 169 no disponible (Status: 404).
+
+[Gachiakuta] Intentando Parte 2 del actual: 168
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-168-parte-2-espanol/
+   ❌ [INFO] 168 P2 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
+🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...
+
+========================================
+🔍 REVISANDO: One_Piece
+========================================
+
+[One_Piece] Intentando Capítulo Normal: 1185
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1185
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: .../quinto-scans/1185/00.jpg
+   [RED] + Imagen: .../quinto-scans/1185/01.jpg
+   [RED] + Imagen: .../quinto-scans/1185/02.jpg
+   [RED] + Imagen: .../quinto-scans/1185/03.jpg
+   [RED] + Imagen: .../quinto-scans/1185/04.jpg
+   [RED] + Imagen: .../quinto-scans/1185/05.jpg
+   [RED] + Imagen: .../quinto-scans/1185/06.jpg
+   [RED] + Imagen: .../quinto-scans/1185/07.jpg
+   [RED] + Imagen: .../quinto-scans/1185/08.jpg
+   [RED] + Imagen: .../quinto-scans/1185/09.jpg
+   [RED] + Imagen: .../quinto-scans/1185/10.jpg
+   [RED] + Imagen: .../quinto-scans/1185/11.jpg
+   [RED] + Imagen: .../quinto-scans/1185/12.jpg
+   [RED] + Imagen: .../quinto-scans/1185/13.jpg
+   [RED] + Imagen: .../quinto-scans/1185/14.jpg
+   [RED] + Imagen: .../quinto-scans/1185/15.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1185 (17 imágenes)
+   [LOG] Enviando a Discord...
+(node:2876) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+   [LOG] Actualizando JSON a: 1185
+
+[One_Piece] Intentando Capítulo Normal: 1186
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1186
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1186/000.jpg
+   [RED] + Imagen: ...quinto-scans/1186/001.jpg
+   [RED] + Imagen: ...quinto-scans/1186/002.jpg
+   [RED] + Imagen: ...quinto-scans/1186/003.jpg
+   [RED] + Imagen: ...quinto-scans/1186/004.jpg
+   [RED] + Imagen: ...quinto-scans/1186/005.jpg
+   [RED] + Imagen: ...quinto-scans/1186/006.jpg
+   [RED] + Imagen: ...quinto-scans/1186/007.jpg
+   [RED] + Imagen: ...quinto-scans/1186/008.jpg
+   [RED] + Imagen: ...uinto-scans/1186/009-.jpg
+   [RED] + Imagen: ...uinto-scans/1186/010-.jpg
+   [RED] + Imagen: ...quinto-scans/1186/011.jpg
+   [RED] + Imagen: ...quinto-scans/1186/012.jpg
+   [RED] + Imagen: ...quinto-scans/1186/013.jpg
+   [RED] + Imagen: ...quinto-scans/1186/014.jpg
+   [RED] + Imagen: ...quinto-scans/1186/015.jpg
+   [RED] + Imagen: ...quinto-scans/1186/016.jpg
+   [RED] + Imagen: ...quinto-scans/1186/017.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1186 (19 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1186
+
+[One_Piece] Intentando Capítulo Normal: 1187
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1187
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...quinto-scans/1187/000.jpg
+   [RED] + Imagen: ...quinto-scans/1187/001.jpg
+   [RED] + Imagen: ...quinto-scans/1187/002.jpg
+   [RED] + Imagen: ...quinto-scans/1187/003.jpg
+   [RED] + Imagen: ...quinto-scans/1187/004.jpg
+   [RED] + Imagen: ...quinto-scans/1187/005.jpg
+   [RED] + Imagen: ...quinto-scans/1187/006.jpg
+   [RED] + Imagen: ...quinto-scans/1187/007.jpg
+   [RED] + Imagen: ...quinto-scans/1187/008.jpg
+   [RED] + Imagen: ...quinto-scans/1187/009.jpg
+   [RED] + Imagen: ...quinto-scans/1187/010.jpg
+   [RED] + Imagen: ...quinto-scans/1187/011.jpg
+   [RED] + Imagen: ...quinto-scans/1187/012.jpg
+   [RED] + Imagen: ...quinto-scans/1187/013.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1187 (15 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1187
+
+[One_Piece] Intentando Capítulo Normal: 1188
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1188
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: .../quinto-scans/1188/00.jpg
+   [RED] + Imagen: ...quinto-scans/1188/00B.jpg
+   [RED] + Imagen: .../quinto-scans/1188/01.jpg
+   [RED] + Imagen: ...quinto-scans/1188/01B.jpg
+   [RED] + Imagen: .../quinto-scans/1188/02.jpg
+   [RED] + Imagen: .../quinto-scans/1188/03.jpg
+   [RED] + Imagen: .../quinto-scans/1188/04.jpg
+   [RED] + Imagen: .../quinto-scans/1188/05.jpg
+   [RED] + Imagen: .../quinto-scans/1188/06.jpg
+   [RED] + Imagen: .../quinto-scans/1188/07.jpg
+   [RED] + Imagen: .../quinto-scans/1188/08.jpg
+   [RED] + Imagen: .../quinto-scans/1188/09.jpg
+   [RED] + Imagen: .../quinto-scans/1188/10.jpg
+   [RED] + Imagen: .../quinto-scans/1188/11.jpg
+   [RED] + Imagen: .../quinto-scans/1188/12.jpg
+   [RED] + Imagen: .../quinto-scans/1188/13.jpg
+   [RED] + Imagen: .../quinto-scans/1188/14.jpg
+   [RED] + Imagen: .../quinto-scans/1188/15.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1188 (19 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1188
+
+[One_Piece] Intentando Capítulo Normal: 1189
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1189
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1189/0000.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0001.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0002.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0003.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0004.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0005.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0006.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0007.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0008.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0009.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0010.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0011.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0012.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0013.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0014.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0015.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0016.jpg
+   [RED] + Imagen: ...uinto-scans/1189/0017.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1189 (19 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1189
+
+[One_Piece] Intentando Capítulo Normal: 1190
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1190
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1190/00v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/01v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/02v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/03v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/04v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/05v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/06v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/07v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/08v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/09v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/10v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/11v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/12v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/13v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/14v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/15v2.jpg
+   [RED] + Imagen: ...uinto-scans/1190/16v2.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1190 (18 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1190
+
+[One_Piece] Intentando Capítulo Normal: 1191
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1191
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [RED] + Imagen: ...uinto-scans/1191/00v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/01v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/02v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/03v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/04v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/05v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/06v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/07v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/08v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/09v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/10v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/11v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/12v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/13v2.jpg
+   [RED] + Imagen: ...uinto-scans/1191/14v2.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 1191 (16 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 1191
+
+[One_Piece] Intentando Capítulo Normal: 1192
+   [LOG] Navegando a: https://one-piece-fans2.com/manga/es/quinto-scans/1192
+   [RED] + Imagen: ...ans2.com/images/luffy.png
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+========================================
+🔍 REVISANDO: Gachiakuta
+========================================
+
+[Gachiakuta] Intentando Capítulo Normal: 169
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-169-espanol/
+   [RED] + Imagen: .../FB_IMG_1782281164657.jpg
+   [RED] + Imagen: .../FB_IMG_1782281166465.jpg
+   [RED] + Imagen: .../FB_IMG_1782281168027.jpg
+   [RED] + Imagen: .../FB_IMG_1782281169810.jpg
+   [RED] + Imagen: .../FB_IMG_1782281171661.jpg
+   [RED] + Imagen: .../FB_IMG_1782281173075.jpg
+   [RED] + Imagen: .../FB_IMG_1782281174673.jpg
+   [RED] + Imagen: .../FB_IMG_1782281176379.jpg
+   [RED] + Imagen: .../FB_IMG_1782281177977.jpg
+   [RED] + Imagen: .../FB_IMG_1782281179562.jpg
+   [RED] + Imagen: .../FB_IMG_1782281180967.jpg
+   [RED] + Imagen: .../FB_IMG_1782281183098.jpg
+   [RED] + Imagen: .../FB_IMG_1782281184773.jpg
+   [RED] + Imagen: .../FB_IMG_1782281186422.jpg
+   [RED] + Imagen: .../FB_IMG_1782281191791.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 169 (15 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 169
+
+[Gachiakuta] Intentando Capítulo Normal: 170
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-170-espanol/
+   [RED] + Imagen: .../FB_IMG_1782889619349.jpg
+   [RED] + Imagen: .../FB_IMG_1782889621421.jpg
+   [RED] + Imagen: .../FB_IMG_1782889622920.jpg
+   [RED] + Imagen: .../FB_IMG_1782889624610.jpg
+   [RED] + Imagen: .../FB_IMG_1782889626506.jpg
+   [RED] + Imagen: .../FB_IMG_1782889628051.jpg
+   [RED] + Imagen: .../FB_IMG_1782889629993.jpg
+   [RED] + Imagen: .../FB_IMG_1782889631666.jpg
+   [RED] + Imagen: .../FB_IMG_1782889633000.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1782889635500.jpg
+   [RED] + Imagen: .../FB_IMG_1782889636394.jpg
+   [RED] + Imagen: .../FB_IMG_1782889637850.jpg
+   [RED] + Imagen: .../FB_IMG_1782889640097.jpg
+   [RED] + Imagen: .../FB_IMG_1782889642112.jpg
+   [RED] + Imagen: .../FB_IMG_1782889649339.jpg
+   ✅ [ÉXITO] Generando PDF: 170 (15 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 170
+
+[Gachiakuta] Intentando Capítulo Normal: 171
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-171-espanol/
+   [RED] + Imagen: .../FB_IMG_1783471612982.jpg
+   [RED] + Imagen: .../FB_IMG_1783471614773.jpg
+   [RED] + Imagen: .../FB_IMG_1783471616368.jpg
+   [RED] + Imagen: .../FB_IMG_1783471618011.jpg
+   [RED] + Imagen: .../FB_IMG_1783471619857.jpg
+   [RED] + Imagen: .../FB_IMG_1783471621570.jpg
+   [RED] + Imagen: .../FB_IMG_1783471623340.jpg
+   [RED] + Imagen: .../FB_IMG_1783471625146.jpg
+   [RED] + Imagen: .../FB_IMG_1783471626890.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1783471628374.jpg
+   [RED] + Imagen: .../FB_IMG_1783471630128.jpg
+   [RED] + Imagen: .../FB_IMG_1783471631823.jpg
+   [RED] + Imagen: .../FB_IMG_1783471637319.jpg
+   ✅ [ÉXITO] Generando PDF: 171 (13 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 171
+
+[Gachiakuta] Intentando Capítulo Normal: 172
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-172-espanol/
+   [RED] + Imagen: .../FB_IMG_1784659786335.jpg
+   [RED] + Imagen: .../FB_IMG_1784659788198.jpg
+   [RED] + Imagen: .../FB_IMG_1784659789801.jpg
+   [RED] + Imagen: .../FB_IMG_1784659791387.jpg
+   [RED] + Imagen: .../FB_IMG_1784659792925.jpg
+   [RED] + Imagen: .../FB_IMG_1784659794447.jpg
+   [RED] + Imagen: .../FB_IMG_1784659796007.jpg
+   [RED] + Imagen: .../FB_IMG_1784659814935.jpg
+   [RED] + Imagen: .../FB_IMG_1784659817116.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   [RED] + Imagen: .../FB_IMG_1785262949264.jpg
+   [RED] + Imagen: .../FB_IMG_1785262951206.jpg
+   [RED] + Imagen: .../FB_IMG_1785262952950.jpg
+   [RED] + Imagen: .../FB_IMG_1785262954747.jpg
+   [RED] + Imagen: .../FB_IMG_1785262956474.jpg
+   [RED] + Imagen: .../FB_IMG_1785262958222.jpg
+   [RED] + Imagen: .../FB_IMG_1785262959933.jpg
+   [RED] + Imagen: .../FB_IMG_1785262961696.jpg
+   [RED] + Imagen: .../FB_IMG_1785262963434.jpg
+   [RED] + Imagen: .../FB_IMG_1785262965232.jpg
+   [RED] + Imagen: .../FB_IMG_1785262966933.jpg
+   [RED] + Imagen: .../FB_IMG_1785262968639.jpg
+   [RED] + Imagen: .../FB_IMG_1785262970393.jpg
+   [RED] + Imagen: .../FB_IMG_1785262972129.jpg
+   [RED] + Imagen: .../FB_IMG_1785262973975.jpg
+   [RED] + Imagen: .../FB_IMG_1785262977668.jpg
+   ✅ [ÉXITO] Generando PDF: 172 (25 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 172
+
+[Gachiakuta] Intentando Capítulo Normal: 173
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-173-espanol/
+   [RED] + Imagen: .../FB_IMG_1785891347418.jpg
+   [RED] + Imagen: .../FB_IMG_1785891349081.jpg
+   [RED] + Imagen: .../FB_IMG_1785891350800.jpg
+   [RED] + Imagen: .../FB_IMG_1785891352756.jpg
+   [RED] + Imagen: .../FB_IMG_1785891354357.jpg
+   [RED] + Imagen: .../FB_IMG_1785891356370.jpg
+   [RED] + Imagen: .../FB_IMG_1785891357931.jpg
+   [RED] + Imagen: .../FB_IMG_1785891359697.jpg
+   [RED] + Imagen: .../FB_IMG_1785891364082.jpg
+   [LOG] Status 200 OK. Scroll y renderizado...
+   ✅ [ÉXITO] Generando PDF: 173 (9 imágenes)
+   [LOG] Enviando a Discord...
+   [LOG] Actualizando JSON a: 173
+
+[Gachiakuta] Intentando Capítulo Normal: 174
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-174-espanol/
+   [LOG] Status 200 OK. Scroll y renderizado...
+
+[Gachiakuta] Intentando Parte 2 del actual: 173
+   [LOG] Navegando a: https://animeallstar30.com/gachiakuta-manga-173-parte-2-espanol/
+   ❌ [INFO] 173 P2 no disponible (Status: 404).
+
+✅ [SISTEMA] Proceso finalizado.
