@@ -107,8 +107,8 @@ class MangaBot {
 
         const response = await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 }).catch(() => null);
 
-        if (!response || response.status() !== 200) {
-            console.log(`   ❌ [INFO] ${displayNum} no disponible (Status: ${response ? response.status() : 'Error'}).`);
+        if (!response) {
+            console.log(`   ❌ [INFO] ${displayNum} no disponible (Sin respuesta de red).`);
             return false;
         }
 
@@ -118,7 +118,7 @@ class MangaBot {
             return false;
         }
 
-        console.log(`   [LOG] Status 200 OK. Scroll y renderizado...`);
+        console.log(`   [LOG] Navegación completada. Scroll y renderizado...`);
         await page.evaluate(async () => {
             await new Promise(r => {
                 let h = 0;
@@ -152,6 +152,8 @@ class MangaBot {
             if (fs.existsSync(pdfPath)) fs.unlinkSync(pdfPath);
             return true;
         }
+        
+        console.log(`   ❌ [INFO] ${displayNum} no disponible (No se encontraron suficientes imágenes).`);
         return false;
     }
 
