@@ -17,10 +17,22 @@ class MangaBot {
 
     async run() {
         console.log("🚀 [SISTEMA] Iniciando MangaBot (Persistencia Full)...");
+        
+        // Configuración adaptada a Chromium nativo en Termux (ARM64)
         const browser = await puppeteer.launch({ 
             headless: "new", 
-            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security'] 
+            executablePath: '/data/data/com.termux/files/usr/bin/chromium',
+            args: [
+                '--no-sandbox', 
+                '--disable-setuid-sandbox', 
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+                '--no-first-run',
+                '--no-zygote',
+                '--disable-web-security'
+            ] 
         });
+        
         const page = await browser.newPage();
         await page.setViewport({ width: 1280, height: 1080 });
 
